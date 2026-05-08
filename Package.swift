@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "BaklavaSDK",
             url: "https://github.com/TerraceApps/baklava-ios-sdk/releases/download/v1.0.0/BaklavaSDK.xcframework.zip",
-            checksum: "59715d088d59829ad98890172154e00fa77838eda79ff5e01ccbc722808d6580"
+            checksum: "75264257eca7fe39825668030b9808b09ad12c58a34c3eb68d7cf666ea304ddb"
         )
     ]
 )
